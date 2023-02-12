@@ -2,7 +2,7 @@ import Image from "next/image";
 const Main = () => {
   return (
     <>
-      <main className="pt-32 pb-8 flex pl-10 justify-center overflow-x-hidden overflow-y-clip">
+      <main className="lg:pt-24 lg:pb-20 pt-20 flex flex-col lg:gap-0 gap-24 lg:flex-row px-4 py-4 md:pl-10 md:pr-10 lg:pr-0 justify-center items-center overflow-x-hidden overflow-y-clip">
         <div className="left">
           <div className="main-text lg:max-w-xl max-w-none lg:pt-6">
             <h1 className="font-medium tracking-tight text-gray-900 text-[40px]">
@@ -39,7 +39,7 @@ const Main = () => {
               </a>
             </div>
           </div>
-          <div className="featured-box max-w-xl mt-20">
+          <div className="featured-box max-w-xl md:mt-20 mt-14">
             <p>As featured in</p>
             <div className="logo-container flex flex-wrap gap-y-8 gap-x-10 mt-8">
               <Image

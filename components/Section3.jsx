@@ -2,7 +2,7 @@ import Image from "next/image";
 const Section3 = () => {
   return (
     <>
-      <section className="section3 sm:py-32 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <section className="section3 py-20 sm:py-32 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="section-main-text mx-auto max-w-2xl sm:text-center">
           <h2 className="text-center text-[32px] font-medium tracking-tight text-gray-900">
             Now is the time to build your portfolio.

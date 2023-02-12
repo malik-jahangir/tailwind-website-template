@@ -4,11 +4,11 @@ const Section4 = () => {
     <>
       <section className="relative overflow-hidden bg-neutral-900 py-20 sm:py-28">
 
-        <div className="inner-section mx-auto max-w-md sm:text-center">
-          <h2 className="text-3xl font-medium tracking-tight text-white sm:text-4xl">
+        <div className="inner-section mx-auto max-w-lg sm:text-center px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl font-medium tracking-tight text-white sm:text-[40px]">
             Get your first tips today
           </h2>
-          <p className="mt-4 text-lg text-gray-300">
+          <p className="mt-4 text-lg text-neutral-300">
             It takes 30 seconds to sign up. Download the app and create an
             account today and we’ll send you a tip guaranteed to double your
             first investment.
