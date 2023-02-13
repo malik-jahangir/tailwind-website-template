@@ -91,6 +91,7 @@ z-index: 1;
 }
 .animate-marquee1{
   animation: marquee 52s linear infinite;
+  /* animation: marquee 12s linear infinite; */
   /* transform: translateY(-66.7%); */
 }
 .animate-marquee2{
