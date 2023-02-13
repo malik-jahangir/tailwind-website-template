@@ -51,7 +51,7 @@ const Footer = () => {
           <div className="flex flex-col items-center border-t border-neutral-200 pt-8 pb-12 md:flex-row-reverse md:justify-between md:pt-6">
         <form className="flex w-full justify-center md:w-auto" action="">
           <div className="w-60 min-w-0 shrink">
-            <input className="block w-full px-3 py-2 appearance-none rounded-lg border border-gray-200 bg-white text-neutral-900 placeholder:text-gray-400 focus:border-cyan-500 focus:outline-none focus:ring-cyan-500 sm:text-sm" type="email" placeholder="Email address" />
+            <input className="block w-full px-3 py-2 appearance-none rounded-lg border border-gray-200 bg-white text-neutral-900 placeholder:text-neutral-400 focus:border-cyan-500 focus:outline-none focus:ring-cyan-500 sm:text-sm" type="email" placeholder="Email address" />
           </div>
           <button className="px-3 py-2 bg-cyan-500 text-white hover:bg-cyan-600 text-sm font-semibold ml-4 rounded-lg">Join our newsletter</button>
         </form>

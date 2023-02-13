@@ -5,10 +5,10 @@ const Section5 = () => {
     <>
       <section className="section5 pt-20 pb-16 sm:pt-32 sm:pb-24 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="section5-top-text">
-          <h2 className="text-3xl font-medium tracking-tight text-gray-900 sm:text-center">
+          <h2 className="text-3xl font-medium tracking-tight text-neutral-900 sm:text-center">
             Everyone is changing their life with Pocket.
           </h2>
-          <p className="mt-2 text-lg text-gray-600 sm:text-center">
+          <p className="mt-2 text-lg text-neutral-600 sm:text-center">
             Thousands of people have doubled their net-worth in the last 30
             days.
           </p>
